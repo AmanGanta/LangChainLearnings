@@ -1,0 +1,17 @@
+openai
+langchain
+streamlit
+langchain_community
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+ipykernel
+bs4
+pypdf
+chromadb
+tiktoken 
+langchain-openai
+faiss-cpu
+lancedb
